@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-stream-object-buffer",
+  "version": "0.1.0",
+  "description": "Very simple stream object buffer",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "lerna-ministack": "^0.5.4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/just-paja/nodejs-stream-object-buffer.git"
+  },
+  "files": [
+    "lib"
+  ],
+  "standard": {
+    "env": [
+      "jest"
+    ],
+    "parser": "babel-eslint"
+  },
+  "author": "Pavel Žák <pavel@zak.global>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/just-paja/nodejs-stream-object-buffer/issues"
+  },
+  "homepage": "https://github.com/just-paja/nodejs-stream-object-buffer#readme"
+}
