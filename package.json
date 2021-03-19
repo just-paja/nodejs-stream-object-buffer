@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-stream-object-buffer",
+  "name": "stream-object-buffer",
   "version": "0.1.0",
   "description": "Very simple stream object buffer",
   "main": "lib/index.js",
